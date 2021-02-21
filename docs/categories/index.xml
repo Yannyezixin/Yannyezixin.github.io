@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pure theme for Hugo</title>
-    <link>https://example.com/categories/</link>
+    <link>https://yannyezixin.github.io/categories/</link>
     <description>Recent content in Categories on Pure theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
     
-        <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://yannyezixin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://example.com/2021/02/hello-world/</link>
+      <link>https://yannyezixin.github.io/2021/02/hello-world/</link>
       <pubDate>Sun, 21 Feb 2021 13:05:09 +0800</pubDate>
       
-      <guid>https://example.com/2021/02/hello-world/</guid>
+      <guid>https://yannyezixin.github.io/2021/02/hello-world/</guid>
       <description>欢迎来到我的世界，这里是Yannyezixin的博客</description>
     </item>
     
